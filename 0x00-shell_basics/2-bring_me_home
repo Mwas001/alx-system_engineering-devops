@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x /tmp$ source ./2-bring_me_home
+chmod u+x ./2-bring_me_home
