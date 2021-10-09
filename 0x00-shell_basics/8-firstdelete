@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x
+rm /tmp/my_first_directory betty
